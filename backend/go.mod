@@ -1,4 +1,4 @@
-module gist-compose
+module git-compose
 
 go 1.19
 

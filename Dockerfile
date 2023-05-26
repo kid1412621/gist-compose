@@ -23,7 +23,7 @@ COPY ui /ui
 RUN npm run build
 
 FROM alpine
-LABEL org.opencontainers.image.title="gist-compose" \
+LABEL org.opencontainers.image.title="git-compose" \
     org.opencontainers.image.description="Github gist for docker compose ymal files" \
     org.opencontainers.image.vendor="Alex Tan" \
     com.docker.desktop.extension.api.version="0.3.4" \

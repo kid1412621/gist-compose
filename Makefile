@@ -1,4 +1,4 @@
-IMAGE?=kid1412621/gist-compose
+IMAGE?=kid1412621/git-compose
 TAG?=latest
 
 BUILDER=buildx-multi-arch
